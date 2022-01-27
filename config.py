@@ -1,0 +1,2 @@
+from pymongo import MongoClient
+client = MongoClient('mongodb+srv://taskeenzahraa:fzc1zqv@cluster0.4izy6.mongodb.net/test?authSource=admin&replicaSet=atlas-wxkbew-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true')

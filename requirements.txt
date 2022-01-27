@@ -1,0 +1,12 @@
+cmake
+gdown
+tensorflow-cpu
+dlib==19.19.0
+face_recognition
+instagramy
+fastapi[all]
+deepface
+pymongo
+numpy
+opencv-python-headless
+uvicorn
